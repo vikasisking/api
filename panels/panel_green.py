@@ -25,8 +25,8 @@ POLL_INTERVAL = 30             # seconds
 #  SECTION 2: CONFIG  ← SIRF YAHAN BADLO
 # ============================================================
 
-USERNAME   = "Itachy12"
-PASSWORD   = "Itachy2655"
+USERNAME   = "alexdevil899"
+PASSWORD   = "alexdevil899"
 BASE_URL   = "http://139.99.9.4/ints"
 
 
